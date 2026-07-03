@@ -1,0 +1,10 @@
+# File kerja internal, tidak perlu ikut di-commit
+/preview/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Jangan pernah commit file rahasia kalau nanti ditambahkan
+.env
+.env.local
